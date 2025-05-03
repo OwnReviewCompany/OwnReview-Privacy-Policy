@@ -116,7 +116,33 @@ This service may display personalized advertisements based on users' interests. 
 For iOS: Settings → Privacy & Security → Limit Ad Tracking
 For Android: Settings → Google → Ads → Opt out of **personalized** advertising
 
-#### 13. Establishment and Revision Date of the Privacy Policy
+#### 13. Standards Against Child Sexual Abuse and Exploitation (CSAE)
+
+This service prioritizes the safety and protection of children as our highest concern. We explicitly prohibit any content or behavior related to child sexual abuse and exploitation (CSAE) and have established the following standards:
+
+(1) Prohibited Content and Behavior
+
+- Creation, uploading, sharing, or distribution of child sexual abuse material (CSAM)
+- Depiction or encouragement of inappropriate actions targeting children
+- Child grooming (engaging with children to lure them into sexual contact)
+- Sexualization of minors
+- Sextortion (demanding sexual content through coercion)
+- Child trafficking for sexual exploitation purposes
+- Any other content or behavior that sexually exploits, abuses, or endangers children
+
+(2) Reporting and Response
+
+- Users can report CSAE-related content or behavior through the in-app reporting function
+- Reported content will be reviewed within 24 hours, and if violations are confirmed, the content will be immediately removed
+- User accounts engaged in violations will be subject to immediate suspension or deletion
+- When legally required, we will report to relevant authorities
+
+(3) Child Safety Contact
+For concerns or reports related to CSAE, please contact us through the in-app inquiry form.
+
+This service utilizes AI image analysis technology to automatically detect inappropriate content and protect children's safety. We take all user reports seriously and respond promptly and appropriately.
+
+#### 14. Establishment and Revision Date of the Privacy Policy
 
 Established: March 5, 2025
 Revised: April 4, 2025
