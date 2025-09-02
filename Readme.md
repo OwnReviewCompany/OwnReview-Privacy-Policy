@@ -4,6 +4,10 @@
 
 This service establishes the following privacy policy (hereinafter referred to as "this Policy") regarding users' personal information (defined as "personal information" by Article 2, Paragraph 1 of the Personal Information Protection Law, and the same shall apply hereinafter). This Policy explains what personal information this service collects, how we use and share it, and how users can manage their own personal information.
 
+### Important Declaration
+
+This service does not sell users' personal information to third parties. We also do not share personal information for advertising purposes. We are committed to protecting your privacy as our top priority so that you can use our service with confidence.
+
 #### 1. Contact Information
 
 For inquiries regarding the handling of personal information in this service, please contact us through the inquiry form within the service.
@@ -11,31 +15,32 @@ For inquiries regarding the handling of personal information in this service, pl
 #### 2. Personal Information Collected
 
 This service collects the following personal information:
+
 (1) Information provided at registration
 
-Email address
-Account name
-Password
-Profile information
+- Email address
+- Account name
+- Password
+- Profile information
 
 (2) Information automatically collected through use of the service
 
-Access log information
-Device information
-Cookie information
-Advertising ID (IDFA/AAID)
-Location information
+- Access log information
+- Device information (OS, model, screen size, etc.)
+- Device identifiers (Advertising ID: IDFA/AAID)
+- Location information
+- App usage data (launch time, features used, etc.)
 
 (3) Information provided when using this service
 
-Posted images
-Comment images
-Profile images
+- Posted images
+- Comment images
+- Profile images
 
 (4) Information provided when making inquiries
 
-Inquiry content
-Email address
+- Inquiry content
+- Email address
 
 #### 3. Purpose of Using Personal Information
 
@@ -52,21 +57,25 @@ This service uses collected personal information for the following purposes:
 #### 4. AI Image Analysis
 
 This service automatically analyzes images posted by users using AI image analysis services provided by companies such as Google, for the purpose of detecting inappropriate content and maintaining a safe platform.
+
 (1) Images subject to analysis
 
-Images posted by users
-Images attached to comments
-Profile images
+- Images posted by users
+- Images attached to comments
+- Profile images
 
 (2) Purpose of analysis
 
-Detection of inappropriate content (violent, sexual, or other content that violates the Terms of Service)
-Ensuring platform safety
-Compliance with community guidelines
+- Detection of inappropriate content (violent, sexual, or other content that violates the Terms of Service)
+- Ensuring platform safety
+- Compliance with community guidelines
 
 (3) Use of third-party services
+
 We use AI image analysis services provided by companies such as Google for image analysis. Image data is sent to and analyzed by these services. The handling of transmitted data may also be subject to the privacy policies of each service provider.
+
 (4) Data retention
+
 Analysis results from AI are only stored if determined to be inappropriate, and other analysis results are not stored. Stored analysis results will be deleted when the account is deleted or after a maximum period of 6 months.
 
 #### 5. Measures to Safely Manage Personal Information
@@ -96,27 +105,62 @@ This service uses Google's access analysis tool "Google Analytics". Google Analy
 
 If a user requests disclosure, correction, or deletion of personal information, this service will verify the user's identity and respond in accordance with legal requirements. Please contact us through the inquiry form for such requests.
 
-#### 9. About Cookies
+#### 9. About Device Identifiers
 
-Cookies are data sent from web servers to web browsers. By referring to cookies, web servers can identify users' computers and enable efficient use of the service. Files sent by this service as cookies do not contain information that can identify individuals. You can disable cookies in your web browser settings.
+This app uses the following device identifiers for service provision:
+
+(1) Advertising ID (IDFA/AAID)
+
+- iOS: IDFA (Identifier for Advertisers)
+- Android: AAID (Google Advertising ID)
+- Purpose: Personalized advertising delivery, advertising effectiveness measurement
+
+(2) User control methods
+
+- iOS: Settings → Privacy & Security → Limit Ad Tracking
+- Android: Settings → Google → Ads → Opt out of personalized advertising
+
+(3) In-app identifiers
+
+- User ID, session ID, etc.
+- Purpose: Maintaining login status, providing service functions
 
 #### 10. Changes to the Privacy Policy
 
 The content of this Policy may be changed without notifying users, except for matters stipulated by law or otherwise specified in this Policy. The updated Privacy Policy will be effective from the time it is displayed on this service.
 
-#### 11. About Advertising Delivery
+#### 11. Advertising Delivery and Data Usage
 
-This service delivers advertisements using AdMob provided by Google. AdMob may use cookies for advertising delivery and may deliver advertisements based on this service's usage history information and device information.
-For information collected by AdMob and how to opt out, please refer to Google's Privacy Policy (https://policies.google.com/technologies/ads).
+(1) Use of advertising delivery services
 
-#### 12. About Personalized Advertisements
+This service delivers advertisements using AdMob provided by Google.
 
-This service may display personalized advertisements based on users' interests. This is done based on device information, app usage, advertising ID, etc. Users can reset their advertising ID or opt out of personalized advertisements from their device settings.
+(2) Information collected
 
-For iOS: Settings → Privacy & Security → Limit Ad Tracking
-For Android: Settings → Google → Ads → Opt out of **personalized** advertising
+- Device identifiers (advertising ID)
+- App usage data
+- Device information
+- Approximate location information
 
-#### 13. Standards Against Child Sexual Abuse and Exploitation (CSAE)
+(3) Handling of personal information
+
+This service uses this information only for the following purposes:
+
+- Displaying appropriate advertisements
+- Measuring advertising effectiveness
+- Improving the service
+
+(4) Restrictions on third-party provision
+
+Collected personal information will not be sold or provided to third parties without user consent, except as permitted by law.
+
+(5) User choice
+
+Users can opt out of personalized advertising at any time through their device settings. After opting out, advertisements will still be displayed, but they will be general advertisements not based on user interests.
+
+AdMob Privacy Policy: https://policies.google.com/technologies/ads
+
+#### 12. Standards Against Child Sexual Abuse and Exploitation (CSAE)
 
 This service prioritizes the safety and protection of children as our highest concern. We explicitly prohibit any content or behavior related to child sexual abuse and exploitation (CSAE) and have established the following standards:
 
@@ -138,11 +182,12 @@ This service prioritizes the safety and protection of children as our highest co
 - When legally required, we will report to relevant authorities
 
 (3) Child Safety Contact
+
 For concerns or reports related to CSAE, please contact us through the in-app inquiry form.
 
 This service utilizes AI image analysis technology to automatically detect inappropriate content and protect children's safety. We take all user reports seriously and respond promptly and appropriately.
 
-#### 14. Establishment and Revision Date of the Privacy Policy
+#### 13. Establishment and Revision Date of the Privacy Policy
 
 Established: March 5, 2025
-Revised: April 4, 2025
+Revised: May 2, 2025
